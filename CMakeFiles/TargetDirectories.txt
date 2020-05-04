@@ -1,0 +1,3 @@
+/home/bugra/Desktop/project/CMakeFiles/rebuild_cache.dir
+/home/bugra/Desktop/project/CMakeFiles/edit_cache.dir
+/home/bugra/Desktop/project/CMakeFiles/Test.dir
